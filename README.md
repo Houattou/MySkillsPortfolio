@@ -9,6 +9,7 @@ I am a passionate Software Engineer with expertise in:
 - C and C++
 - Ruby on Rails
 - HTML and CSS
+- JavaScript
 
 ## Skills
 
