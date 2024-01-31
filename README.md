@@ -17,6 +17,4 @@ I am a passionate Software Engineer with expertise in:
 - Full Stack Development
 - Continuous Learning
 - 
-👋 Welcome! Explore my skills in [MySkillsPortfolio](https://github.com/Houattou/MySkillsPortfolio) and let's code together! 🚀
-
- connect and create something amazing together! 🚀
+ Let's connect and create something amazing together! 🚀
